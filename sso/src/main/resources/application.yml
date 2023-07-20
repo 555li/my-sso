@@ -1,0 +1,4 @@
+#jwt相关配置
+jwt:
+    secret: MySuperSecretKey123!@#
+    expireTime: 60

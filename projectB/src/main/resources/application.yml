@@ -1,0 +1,5 @@
+server:
+  port: 8082
+
+#sso地址
+sso_server: http://localhost:8080/sso
